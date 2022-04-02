@@ -35,3 +35,4 @@ d) create a new-migration db/migration
 4) CRUD operations on the database 
 a) sqlc to generat CRUD code for the project.
 
+5) Go unit tests for db CRUD with random data
